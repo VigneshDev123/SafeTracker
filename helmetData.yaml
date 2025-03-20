@@ -1,0 +1,7 @@
+path: C:\Users\ramak\traffic-two-wheeler-monitoring\data # dataset root dir
+train: C:\Users\ramak\traffic-two-wheeler-monitoring\data\images\train
+val: C:\Users\ramak\traffic-two-wheeler-monitoring\data\images\val
+
+# Classes
+nc: 4  # number of classes
+names: ['Helmet', 'No-helmet', 'Motorcycle', 'Numberplate']  # class names
